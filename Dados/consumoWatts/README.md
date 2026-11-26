@@ -36,11 +36,13 @@ Foram testados três tipos de conteúdo nas abas:
 -  **Limite atingido:** próximo das 50 abas, ambos os sistema apresentavam falhas bruscas além do navegador de forma automática abaixar a qualidade dos vídeos das abas acessadas a mais tempo
 
 ## 4. Script de medição (Windows)
- 
+
+**PC 1**
 ```powershell
 nvidia-smi --query-gpu=power.draw,temperature.gpu,timestamp --format=csv -l 1 -f "caminho"
 ```
- 
+**PC 2**
+Através de observação no programa HWMonitor.
 ### O que o script faz
  
 Durante 30 segundos ele registra em um arquivo .csv as informações da GPU a cada segundo de:
