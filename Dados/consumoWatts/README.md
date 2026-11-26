@@ -1,4 +1,4 @@
-# Teste de Uso de Memória e Swap – Ambiente e Metodologia
+# Teste de Consumo de energia – Ambiente e Metodologia
  
 ## 1. Computadores utilizados
  
