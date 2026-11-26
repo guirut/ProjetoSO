@@ -31,7 +31,7 @@ Foram testados três tipos de conteúdo nas abas:
  
 - **Ponto de partida:** medido 5 minutos depois de o sistema inicializar, encerrando quaisquer programas secundários que possam afetar a medição.
 - **Repetições:** A média de 3 testes.
-- **Procedimento:** Inicia o Chrome, inicia o PowerShell, abre a quantidade de abas usadas no experimento, insere o comando de medição no terminal e deixa ele rodar por 30 segundos.
+- **Procedimento:** Inicia o Chrome, inicia o PowerShell, abre a quantidade de abas usadas no experimento, insere o comando de medição no terminal e deixa ele rodar por 30 segundos. Para o PC 2 foi observado o  crescimento através do relatório que o HWMonitor oferece.
 -  **Limite atingido:** próximo das 50 abas, ambos os sistema apresentavam falhas bruscas além do navegador de forma automática abaixar a qualidade dos vídeos das abas acessadas a mais tempo
 
 ## 4. Script de medição (Windows)
